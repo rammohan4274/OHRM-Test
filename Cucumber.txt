@@ -1,0 +1,7 @@
+<Suite name "OrangeHRM">
+<test names "OrangeHRMTestNG_Login_validation"/>
+<classes>
+<class name = "com.TestNG_Annotations"/>
+</classes>
+</test>
+</suite>
